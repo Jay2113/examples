@@ -19,4 +19,4 @@ applications:
       cache:
         paths:
           - node_modules/**/*
-    appRoot: edge-middleware/i18n
+    appRoot: solutions/monorepo/apps/app
